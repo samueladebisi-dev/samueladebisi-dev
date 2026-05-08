@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/adebisisamuel_9"><img src="https://api.daily.dev/devcards/v2/4pCYi3IGLKMgUjDEybHXZ.png?type=default&r=jaf" width="356" alt="Adebisi Samuel's Dev Card"/></a>
+<a href="https://app.daily.dev/adebisisamuel_9"><img src="./devcard.png" width="356" alt="Samuel's Dev Card"/></a>
