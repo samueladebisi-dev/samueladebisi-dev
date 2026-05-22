@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <a href="https://app.daily.dev/adebisisamuel_9"><img src="https://api.daily.dev/devcards/v2/4pCYi3IGLKMgUjDEybHXZ.png?type=default&r=jaf" width="356" alt="Adebisi Samuel's Dev Card"/></a> -->
-<h1 align="center">Hey 👋What's Up?</h1>
+
+<h1 align="center">
+  Hey 👋 What's Up?
+  
+</h1>
 
 ###
 
@@ -76,6 +80,8 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+
 
 <div align="center">
   <a href="https://linkedin.com/in/adebisisamuel" target="_blank">
