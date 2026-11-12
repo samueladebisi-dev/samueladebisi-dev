@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:0b3d1e,100:22c55e&height=210&section=header&text=Adebisi%20Samuel&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Adebisi Samuel, AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:0b3d1e,100:22c55e&height=210&section=header&text=Adebisi%20Samuel&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=ML%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Adebisi Samuel, ML Engineer" />
 </p>
 
 <p align="center">
@@ -15,8 +15,7 @@
 </p>
 
 ```console
-$ whoami
-adebisi-samuel  |  AI Engineer  |  BSc Computer Science  |  5+ years building software
+adebisi-samuel  |  ML Engineer  |  BSc Computer Science  |  5+ years building software
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22c55e,100:000000&height=2" width="100%" alt="" />
